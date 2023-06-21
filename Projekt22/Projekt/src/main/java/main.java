@@ -1,5 +1,5 @@
 package main;
-
+//test 
 import gra.WisielecGra;
 import interfejs.WisielecInterfejs;
 
