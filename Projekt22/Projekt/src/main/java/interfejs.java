@@ -12,7 +12,7 @@ public class WisielecInterfejs {
         scanner = new Scanner(System.in);
     }
 
-
+// Rozpoczyna grę w Wisielca
     public void rozpocznijGre() {
         System.out.println("Witaj w grze Wisielec!");
 
